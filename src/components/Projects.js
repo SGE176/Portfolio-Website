@@ -11,35 +11,35 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Swimming Lessons",
+      description: "Education & Development",
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Fitness Center",
+      description: "Workout & Healthy Lifestyle",
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Gaming Ecommerce",
+      description: "Games & Vintages",
       imgUrl: projImg3,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg1,
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Fitness Center",
+      description: "Workout & Healthy Lifestyle",
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
+      title: "Fitness Center",
+      description: "Workout & Healthy Lifestyle",
+      imgUrl: projImg2,
     },
+    {
+      title: "Fitness Center",
+      description: "Workout & Healthy Lifestyle",
+      imgUrl: projImg2,
+    }
   ];
 
   return (
